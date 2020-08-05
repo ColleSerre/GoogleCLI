@@ -1,7 +1,8 @@
 # GoogleCMD
 A cli tool to google stuff ; open an issue if you want additional functionality
 
-Add -e flag to open a specific URL or search for keywords
+Add -e flag to open a specific URL or search for keywords*
+Add -y flag to search youtube
 
 Usage:
 * ``google "hello world"``
