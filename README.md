@@ -6,7 +6,7 @@ Add -y flag to search youtube
 
 Usage:
 * ``google "hello world"``
-* ``google -e "https://youtube.com"``
+* ``google -e "https://www.youtube.com"``
 * ``google -y "silicon valley best moments"``
 
 Requirements:
